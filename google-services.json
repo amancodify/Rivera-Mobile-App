@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "410240586907",
+    "project_id": "rivera-5f792",
+    "storage_bucket": "rivera-5f792.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410240586907:android:ce662256b4853656e2223e",
+        "android_client_info": {
+          "package_name": "com.amannative.RiveraMoney"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "410240586907-6k20gos4l2g5be6p52hcj1598dirsflp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDl4hyhuMSBInhVVwQJomkD-Amw9c7m-1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "410240586907-6k20gos4l2g5be6p52hcj1598dirsflp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
